@@ -1,124 +1,120 @@
 # 🎓 Placi5 - Alumni Job Referral Platform
 
-Placi5 is a mobile application developed to connect students, alumni, and recruiters through a single platform. The application enables alumni networking, job referrals, event updates, and secure user management.
+A cross-platform mobile application developed using **Angular** and **Ionic** to connect students, alumni, and recruiters through a single digital platform.
 
 ---
 
-## 📱 Overview
+# 📱 Project Overview
 
-The application provides an easy way for students to interact with alumni, receive job referrals, and stay updated with institutional activities.
-
----
-
-## ✨ Features
-
-- Alumni Registration & Login
-- Student Registration
-- Role-Based Authentication
-- JWT Secure Login
-- Profile Management
-- Job Referral System
-- Event Notifications
-- Payment Integration (Razorpay)
-- REST API Integration
-- Responsive Mobile UI
-- Secure Session Management
+Placi5 is an alumni networking and placement platform that helps students connect with alumni, receive job referrals, explore career opportunities, and stay updated with college events.
 
 ---
 
-## 🛠 Technology Stack
+# ✨ Key Features
 
-### Frontend
+- 🔐 Secure Login & Registration
+- 👨‍🎓 Student & Alumni Management
+- 💼 Job Referral System
+- 📢 College Announcements
+- 💳 Razorpay Payment Integration
+- 🔔 Push Notifications
+- 👤 User Profile Management
+- 🔒 JWT Authentication
+- 📱 Responsive Mobile UI
+
+---
+
+# 🛠 Technology Stack
+
+## Frontend
 
 - Angular
 - Ionic Framework
 - TypeScript
+- HTML5
+- CSS3
 
-### Backend
+## Backend
 
 - PHP
 - REST API
 - JWT Authentication
 
-### Database
+## Database
 
 - MySQL
 
-### Tools
+## Development Tools
 
 - Git
 - GitHub
 - Postman
 - Android Studio
+- VS Code
 
 ---
 
-## 📸 Application Screenshots
+# 📸 Screenshots
 
-### Login Screen
+## Login
 
 ![Login](screenshots/login.png)
 
 ---
 
-### Dashboard
+## Dashboard
 
-![Dashboard](screenshots/home.png)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
-### Profile
+## Alumni List
+
+![Alumni](screenshots/alumni.png)
+
+---
+
+## Job Referrals
+
+![Referral](screenshots/referral.png)
+
+---
+
+## User Profile
 
 ![Profile](screenshots/profile.png)
 
 ---
 
-### Job Referrals
-
-![Jobs](screenshots/jobs.png)
-
----
-
-### Payment
+## Payment
 
 ![Payment](screenshots/payment.png)
 
 ---
 
-## 🚀 Installation
+# 🚀 My Responsibilities
 
-```bash
-git clone https://github.com/Akash0532003/placi5-alumni-platform.git
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Run the project
-
-```bash
-ionic serve
-```
+- Designed responsive UI using Angular & Ionic
+- Integrated REST APIs
+- Implemented JWT Authentication
+- Developed Alumni & Student modules
+- Integrated Razorpay Payment Gateway
+- Optimized API performance
+- Fixed production bugs and enhanced UI/UX
 
 ---
 
-## 👨‍💻 Developer
+# 👨‍💻 Developer
 
 **Akash S**
 
-Angular | Ionic | NestJS Developer
+Angular • Ionic • NestJS Developer
 
-📍 Chennai, India
+📍 Chennai, Tamil Nadu
 
-LinkedIn:
+📧 akash0532003@gmail.com
+
+🔗 LinkedIn
 https://linkedin.com/in/akash-s-81372a265
 
-GitHub:
-https://github.com/Akash0532003
-
----
-
-⭐ If you like this project, don't forget to give it a Star.
+⭐ If you like this project, please give it a Star.
