@@ -1,0 +1,19 @@
+# 🎓 Placi5 - Alumni Job Referral Platform
+
+> A cross-platform mobile application built using Angular & Ionic that connects students, alumni, and recruiters.
+
+## 📥 Download Demo APK
+
+➡️ **Latest APK**
+
+https://github.com/Akash0532003/placi5-alumni-platform/releases/latest
+
+---
+
+## 🔑 Demo Login
+
+| Email | Password |
+|--------|----------|
+| demo@placi5.com | Demo@123 |
+
+---
